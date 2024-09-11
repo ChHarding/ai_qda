@@ -1,3 +1,3 @@
 # AI Qualitative Data Analyzer (AI_QDA)
 
-This is an AI Qualitative Data Analyzer. 
+This is a web-based platform designed to automate qualitative data analysis, particularly interview transcripts, focus group transcripts, and other text-based data sources.
