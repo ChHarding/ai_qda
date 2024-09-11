@@ -1,1 +1,1 @@
-# ai_qda
+# This is an AI Qualitative Data Analyzer. 
